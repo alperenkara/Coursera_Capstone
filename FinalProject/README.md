@@ -1,6 +1,8 @@
-Coursera Applied Data Science Capstone Week-V
-Alperen Kara, 2020
-Capstone Project - The Battle of Neighborhoods
+#Coursera Applied Data Science Capstone Week-V
+
+###Alperen Kara, 2020
+
+###Capstone Project - The Battle of Neighborhoods
 
 In this week, you will continue working on your capstone project. Please remember by the end of this week, you will need to submit the following:
 
