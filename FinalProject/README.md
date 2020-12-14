@@ -17,3 +17,7 @@ In this week, you will continue working on your capstone project. Please remembe
 
     Your choice of a presentation or blogpost. (10 marks)
 
+
+References: 
+
+https://www.kaggle.com/aquadrox/versailles-size
